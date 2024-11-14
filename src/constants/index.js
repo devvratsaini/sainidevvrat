@@ -57,7 +57,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "106, Musa (G) Hostel, Symbiosis Institute of Technology, Pune, Maharashtra, India",
   phoneNo: "+91 9537940308",
   email: "devvratsaini4@gmail.com.com",
 };
