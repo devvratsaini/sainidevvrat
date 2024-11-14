@@ -6,7 +6,6 @@ const Contact = () => {
     <div className="border-b border-neutral-900 pb-20">
       <h2 className="my-10 text-center text-4xl">Get in Touch</h2>
       <div className="text-center tracking-tighter">
-        <p className="my-4">{CONTACT.address}</p>
         <p className="my-4"><a href="tel:+919537940308">{CONTACT.phoneNo}</a></p>
         <a href="mailto:devvratsaini4@gmail.com" className="border-b border-neutral-900">{CONTACT.email}</a>
       </div>
