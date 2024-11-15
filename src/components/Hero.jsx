@@ -1,6 +1,6 @@
 import React from "react";
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/profile.jpg";
+import profilePic from "../assets/profile.png";
 
 const Hero = () => {
   return (
@@ -24,7 +24,7 @@ const Hero = () => {
             <img
               src={profilePic}
               alt="Devvrat Saini"
-              className="rounded-3xl w-80 h-80 border border-black lg:w-96 lg:h-96"
+              className="rounded-3xl w-80 h-80 border border-black lg:w-96 lg:h-96 bg-[#e6f7ff]"
             />
           </div>
         </div>
